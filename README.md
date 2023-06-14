@@ -6,7 +6,7 @@ The process of cleaning memory is different.
 2. Call the garbage collector.
 
 **Before**
-![before](before.png)
+![before](before.PNG)
 
 **After**
-![after](after.png)
+![after](after.PNG)
